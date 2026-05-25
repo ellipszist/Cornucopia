@@ -90,7 +90,7 @@
 			},
 			"Fields": {
 				"CornucopiaWW_Cornucopia_BlueChocolateChipCookies": {
-					"0": "C246 1 245 1 -5 1 Cornucopia_Chocolate 1 SeaJelly 1"									//swap cocoa pod for chocolate
+					"0": "246 1 245 1 -5 1 Cornucopia_Chocolate 1 SeaJelly 1"									//swap cocoa pod for chocolate
 				},
 				"CornucopiaAA_Cornucopia_CookieCat": {
 					"0": "Cornucopia_Chocolate 1 -6 1 245 1"

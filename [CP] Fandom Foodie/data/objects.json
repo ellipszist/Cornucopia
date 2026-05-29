@@ -2480,7 +2480,7 @@
 			},
 			"Entries": {
 				"Cornucopia_AdeptusTemptation": {
-					"Name": "Cornucopia_AdeptusTemptation",
+					"Name": "CornucopiaPP_Cornucopia_AdeptusTemptation",
 					"Category": -7,
 					"Type": "Cooking",
 					"SpriteIndex": 44,
